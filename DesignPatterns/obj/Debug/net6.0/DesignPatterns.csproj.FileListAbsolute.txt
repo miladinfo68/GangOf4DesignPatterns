@@ -1,0 +1,15 @@
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\ref\DesignPatterns.dll
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+D:\parallel_Programing\GangOf4DPs\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
